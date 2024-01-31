@@ -13,7 +13,7 @@ For this project, the data sets are provided by Starbucks and Udacity in the for
     profile.json - demographic data for each customer
     transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
-Libraries used:
+Libraries used:  
     pandas  
     numpy  
     math  
