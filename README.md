@@ -1,4 +1,8 @@
 # Starbucks Capstone Project | Udacity - Data Science Nanodegree
+Find my medium article detailing the whole process here
+https://medium.com/@oliver.vinzelberg/exploratory-data-analysis-and-modelling-performed-on-starbucks-customer-data-1f7683fe972d
+
+
 Overview
 
 Starbucks, a coffee giant known for its rewards app, regularly sends promotional offers to entice customers. However, not all offers resonate equally. This project aims to personalize these offers by predicting customer responses based on their past interactions. Through thorough data analysis (EDA) and machine learning models, we strive to help Starbucks target the right customers with the right offers, boosting their marketing effectiveness.
