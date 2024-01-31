@@ -13,6 +13,18 @@ For this project, the data sets are provided by Starbucks and Udacity in the for
     profile.json - demographic data for each customer
     transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
+Libraries used:
+    pandas
+    numpy as np
+    math
+    json
+    datetime
+    seaborn
+    matplotlib
+    sklearn
+    time
+
+
 Here is the schema and explanation of each variable in the files:
 
 portfolio.json
